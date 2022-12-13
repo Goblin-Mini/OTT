@@ -1,0 +1,1666 @@
+#EXTM3U
+#EXTINF:-1 group-title="Кино",A1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:-1 group-title="Кино",A2 HD
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Hit HD
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Premium HD
+https://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+#EXTINF:-1 group-title="Кино",Кинеко HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+#EXTINF:-1 group-title="Кино",Сапфир HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+#EXTINF:-1 group-title="Кино",START Air HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
+#EXTINF:-1 group-title="Кино",START World HD
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
+#EXTINF:-1 group-title="Кино",Star Cinema HD
+http://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD.m3u8
+#EXTINF:-1 group-title="Кино",Star Family HD
+http://okkotv-live.cdnvideo.ru/channel/Star_Family_HD.m3u8
+#EXTINF:-1 group-title="Кино",TV 1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1 group-title="Кино",TV 1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1 group-title="Кино",TV 1000 Русское кино HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 group-title="Кино",VIP Comedy HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1 group-title="Кино",VIP Megahit HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 group-title="Кино",VIP Premiere HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 group-title="Кино",VIP Serial HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 group-title="Кино",Bolt Россия
+http://okkotv-live.cdnvideo.ru/channel/Bolt_HD.m3u8
+#EXTINF:-1  group-title="Кино",Bolt HD (UA)
+http://starnet-md.BOLT_H264
+#EXTINF:-1 group-title="Кино",• black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1 group-title="Кино",• red
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1 group-title="Кино",• sci-fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1 group-title="Кино" catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}", Ultra HD Cinema 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1  group-title="Кино",Кино ТВ HD
+http://starnet-md.KINOTV_HD_H264
+#EXTINF:-1  group-title="Кино",Кино ТВ HD
+http://starnet-md.KINOTV_HD_H264
+#EXTINF:-1  group-title="Кино",Кинокомедия
+http://starnet-md.KINO_KOMEDYA_H264
+#EXTINF:-1  group-title="Кино",Киномикс HD
+http://starnet-md.KINOMIX_H264
+#EXTINF:-1  group-title="Кино",Кинопремьера HD
+http://starnet-md.KINOPREMIERA_H264
+#EXTINF:-1  group-title="Кино",Киносвидание
+http://starnet-md.KINO_SVIDANIE_H264
+#EXTINF:-1  group-title="Кино",Киносемья
+http://starnet-md.KINOSEMYA_H264
+#EXTINF:-1  group-title="Кино",Киносерия
+http://starnet-md.KINOSERYA_H264
+#EXTINF:-1  group-title="Кино",Кинохит
+http://starnet-md.KINOHIT_H264
+#EXTINF:-1  group-title="Кино",Мужское кино
+http://starnet-md.MUJSKOE_KINO_H264
+#EXTINF:-1  group-title="Кино",Наше новое кино
+http://starnet-md.NASHENOVOIE_KINO_H264
+#EXTINF:-1  group-title="Кино",Родное кино
+http://starnet-md.RODNOIE_KINO_H264
+#EXTINF:-1 group-title="Кино",Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Премиальное HD
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="1" catchup-source="&ts=${start}" group-title="Кино",Trash HD
+http://24htv.platform24.tv/v2/channels/4830/stream?access_token=2b4eb39d93b021c3e24a2c6dd5b2f3845b66e06d
+#EXTINF:-1 group-title="Познавательные",TERRA HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:-1  group-title="Познавательные",Viasat Nature/History HD
+http://starnet-md.VIASAT_NATHISTORYHD_H264
+#EXTINF:-1 group-title="Познавательные",История
+http://95.217.196.109:8081/russia/istoriya/playlist.m3u8
+#EXTINF:-1 catchup="default" catchup-days="3" catchup-source="http://24htv.platform24.tv/v2/channels/5633/stream?access_token=2b4eb39d93b021c3e24a2c6dd5b2f3845b66e06d&ts=${start}&type=http" group-title="Познавательные",Тайны Галактики HD
+http://195.191.208.80:80/jwt/2e1072857bfd77c6959e9674455f0217d6105966-5633-0-24h2596517-5-1566361760-1638023871--WzoOwDjTFRZAEH5QXdu4sSvveDi2ToA5nUq3oZcY0I4-0
+#EXTINF:-1 catchup="append" catchup-days="1" catchup-source="&ts=${start}" group-title="Познавательные",Nano HD
+http://24htv.platform24.tv/v2/channels/3769/stream?access_token=2b4eb39d93b021c3e24a2c6dd5b2f3845b66e06d
+#EXTINF:-1  group-title="Познавательные",Первый Космический HD
+http://starnet-md.PERVYY_KOSMICHESKIYHD_H264
+#EXTINF:-1 group-title="Познавательные",History HD
+http://95.217.196.109:8081/russia/history/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",H2 HD
+http://93.189.60.202:8080/1052/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Калейдоскоп ТВ
+https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
+#EXTINF:0 group-title="Познавательные" catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}",Наша Сибирь 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
+#EXTINF:-1 group-title="Детские",Disney Channel
+https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+#EXTINF:-1 group-title="Детские",Мультиландия
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+#EXTINF:-1 group-title="Общероссийские",Домашний HD
+https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTINF:-1 group-title="Общероссийские",Звезда
+https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8
+#EXTINF:-1 group-title="Общероссийские",Мир
+https://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8
+#EXTINF:-1 group-title="Общероссийские",Пятница HD
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD.m3u8
+#EXTINF:-1 group-title="Общероссийские",Пятый канал
+https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+#EXTINF:-1 group-title="Общероссийские",РЕН ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия 1 HD
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия 24
+https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
+#EXTINF:-1 group-title="Общероссийские",Россия К
+https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD.m3u8
+#EXTINF:-1 group-title="Общероссийские",Суббота
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Общероссийские",СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:-1 group-title="Детские",СТС Kids
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
+#EXTINF:-1 group-title="Общероссийские",СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТВ 3 HD
+https://bl.uma.media/live/407373/HLS/407373_7/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТВ 3 
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТНТ HD
+https://bl.uma.media/live/410338/HLS/410338_7/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТНТ MUSIC
+https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Общероссийские",ТНТ4
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Общероссийские",Че
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
+#EXTINF:-1 group-title="Общероссийские",Ю
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
+#EXTINF:-1 group-title="Музыка",Муз ТВ
+https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
+#EXTINF:-1 group-title="Новости",Известия
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
+#EXTINF:-1 group-title="Религия",Спас
+https://okkotv-live.cdnvideo.ru/channel/Spas.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! HD
+https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! FHD
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Премьер HD
+https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Футбол 1 HD
+http://cdn.spmr.tv:8080/f6x6no/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:0 group-title="Спорт",Матч! Футбол 2 HD
+http://cdn.spmr.tv:8080/t2czx3/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:0 group-title="Спорт",Матч! Футбол 3 HD
+http://cdn.spmr.tv:8080/nb2pq7/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+https://federaltv-migra.cdnvideo.ru/football1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
+https://federaltv-migra.cdnvideo.ru/football2/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
+https://federaltv-migra.cdnvideo.ru/football3/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+https://bl.uma.media/live/291661/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+https://federaltv-migra.cdnvideo.ru/marenasd/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Игра
+https://federaltv-migra.cdnvideo.ru/migra/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="1" catchup-source="&ts=${start}" group-title="Спорт",СТАРТ Live HD
+http://24htv.platform24.tv/v2/channels/4304/stream?access_token=2b4eb39d93b021c3e24a2c6dd5b2f3845b66e06d
+#EXTINF:-1 group-title="Спорт",Конный мир HD
+https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
+#EXTINF:-1  group-title="Спорт",Eurosport 1 HD
+http://starnet-md.ESPHD_H264
+#EXTINF:-1  group-title="Спорт",Eurosport 2 HD
+http://starnet-md.EUROSPORT2HD_H264
+#EXTINF:-1 group-title="Спорт",Viasat Sport
+https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+#EXTINF:-1  group-title="Спорт",Viasat Sport HD
+http://starnet-md.VIASAT_SPORTHD_H264
+#EXTINF:-1  group-title="Спорт",Q Sport HD
+http://starnet-md.QSPORT_H264
+#EXTINF:-1  group-title="Спорт",Setanta Sports 1
+http://starnet-md.SETANTA_HD_H264
+#EXTINF:-1  group-title="Спорт",Setanta Sports 2
+http://starnet-md.SETANTAPLUS_HD_H264
+#EXTINF:-1  group-title="Спорт",Setanta Sports Ukraine
+http://starnet-md.SETANTASPORTS_HD_H264
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорт",Setanta Sports 1 Belarus HD
+https://www.voka.tv/f9aa64b0-75bc-4ae6-a246-6dc859fc6f58
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорт",Setanta Sports 2 Belarus HD
+https://www.voka.tv/bad713b4-4d00-4b0d-867b-5ee002834561
+#EXTINF:0 group-title="Спорт",Sky Sport Premier League HD
+http://cdn.spmr.tv:8080/8wgc3x/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:0 group-title="Спорт",Sky Sport Bundesliga HD
+http://cdn.spmr.tv:8080/8fdwa8/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:-1 group-title="Спорт",NHL Network
+http://cdn.spmr.tv:8080/7sh8hg/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:-1,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}",Russian Extreme Ultra 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 tvg-rec ="0" group-title="Федеральные",Соловьев Live
+http://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
+#EXTINF:-1 tvg-rec ="0" group-title="Федеральные", РБК-ТВ
+https://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные",2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные",2x2 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные",2x2 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные",2x2 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-rec ="0" group-title="Федеральные" ,Домашний HD
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Домашний (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Домашний (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Домашний (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" tvg-rec ="0"  group-title="Федеральные",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Звезда (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Звезда (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Звезда (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Канал Disney
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Канал Disney (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Disney Channel (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Disney Channel (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Карусель (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Карусель (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Карусель (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные" ,Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные" ,Мир (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные" ,Мир (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные" ,Мир (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Муз ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Муз ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Муз ТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Муз ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" tvg-rec ="0" group-title="Федеральные", НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные" ,НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные" ,НТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные" ,НТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные" ,НТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-rec ="0" group-title="Федеральные",НТВ Хит
+https://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-rec ="0" group-title="Федеральные",НТВ Сериал
+https://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-rec ="0" group-title="Федеральные",НТВ Право
+https://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-rec ="0" group-title="Федеральные",НТВ Стиль
+https://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Первый канал (-1)
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Первый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Первый канал (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Первый канал (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Первый канал (+3)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Первый канал (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Первый канал (+5)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Первый канал (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Первый канал (+7)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Первый канал (+8)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Первый канал (+9)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-rec ="0" group-title="Федеральные" ,Пятница! HD
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Пятница! (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Пятница! (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Пятница! (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Пятый канал (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Пятый канал (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Пятый канал (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" tvg-rec ="0" group-title="Федеральные" ,РЕН ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",РЕН ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",РЕН ТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",РЕН ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Россия 1 HD
+http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Россия 1 (-1)
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные",Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Россия 1 (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные",Россия 1 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные",Россия 1 (+3)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Россия 1 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Россия 1 (+5)
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные",Россия 1 (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные",Россия 1 (+7)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные",Россия 1 (+8)
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные",Россия 1 (+9)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Россия К (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные",Россия К (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Россия К (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" tvg-rec ="0" group-title="Федеральные" ,СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",СТС (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",СТС (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",СТС (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",СТС Love
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",СТС Love (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",СТС Love (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Суббота
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Суббота (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Суббота (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",Суббота (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" tvg-rec ="0" group-title="Федеральные" ,ТВ 3 HD
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТВ3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТВ3 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТВ3 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТВ3 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТВ Центр (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТВ Центр (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТВ Центр (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" tvg-rec ="0" group-title="Федеральные" ,ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТНТ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТНТ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТНТ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТНТ4 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТНТ4 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"   group-title="Федеральные",ТНТ4 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные" ,Че
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные" ,Че (+2)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные" ,Че (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Федеральные" ,Че (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Ю (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Ю (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Ю (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Спас
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/bw2000000/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Федеральные",Спас (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Региональные",Санкт-Петербург
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+#EXTINF:0 group-title="Региональные",Лен ТВ 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Региональные",Москва 24
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Региональные",Доверие
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Региональные",Истоки (Орёл)
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_ORL_ISTOKI/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Региональные" ,Первый областной (Орел)
+https://rt-ct-orl-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1487582881774.png" group-title="Региональные" tvg-id="selenga-tv",Селенга-ТВ
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_SELENGA/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1531138277952.png" group-title="Региональные" tvg-id="rifey-tv",Рифей-ТВ
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1369641077824.png" group-title="Региональные" tvg-id="s1-surgut",С1 Сургут
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/nclogo1591706246568.png" group-title="Региональные",ТНР24
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="tmtv",TMTV
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="dzenzhinsk-tv",Дзержинск ТВ
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="nash-dom",Наш дом
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553687953730.png" group-title="Региональные",#ё
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="bashkortostan24",Башкортостан 24
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-id="49kanal" group-title="Региональные",НСК 49
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1436946418821.png" group-title="Региональные" tvg-id="arig-us-24",Ариг Ус 24
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1542282104030.jpg" group-title="Региональные",Арктика 24
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1466425125928.png" group-title="Региональные" tvg-id="ugra-travel",UGRA TRAVEL
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1562587401882.png" group-title="Региональные",Информационная служба Югры
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553852171156.png" group-title="Региональные",Эфир
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="nntv",ННТВ
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1528520081978.jpg" group-title="Региональные" tvg-id="vostok-24",Восток 24
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1451465947466.png" group-title="Региональные",КРАСНОДАР он-лайн
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1539083218216.png" group-title="Региональные" tvg-id="tv-in",ТВ-ИН-Магнитогорск
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1558583498243.png" group-title="Региональные",Импульс
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1482124037811.jpg" group-title="Региональные" tvg-id="surgut-24",Сургут 24
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="maydan",Майдан
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/nclogo1555680096248.png" group-title="Региональные" tvg-id="vremia-n",Время Н
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/nclogo1555679320129.png" tvg-id="tolyatti24",Тольятти-24
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="8kanal-novosibirsk",8 канал Новосибирск
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="nts-irkutsk",НТС Иркутск
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные",НТС-Ирбит (Екатеринбург)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578964121507.png" group-title="Региональные",ТВ-7
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1567744193036.png" group-title="Региональные",Толк
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1574910981778.jpg" group-title="Региональные",Область 45
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="8kanal-krasnoyarsk",8 канал Красноярский край
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="8vladik",8 канал Владивосток
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="samara24",Самара-24
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="tolpartv",Толпар ТВ
+https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1457667979653.png" tvg-id="prima" group-title="Региональные",Прима-ТВ
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-id="afontovo-kr" group-title="Региональные",Афонтово
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-id="prodvizhenie-pl3" group-title="Региональные",Продвижение
+https://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-id="rybinsk40" group-title="Региональные",Рыбинск-40
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-id="tverskoy-prospekt" group-title="Региональные",Тверской Проспект
+https://rt-ct-tver-htlive-lb.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные",Югорск ТВ
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_YUGORSKTV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные",41 Регион
+https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="arktik-tv",Арктик-ТВ
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="my-i-gorod",Мы и город
+https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные",Новое время (Радужный)
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="rimtv",РИМ (Каменск-Уральский)
+https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="tagil-tv-24",Тагил ТВ
+https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1569900834559.jpg" group-title="Региональные",Муравленко 24
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="shayantv",Шаян ТВ
+https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="7kanal-krasnoyarsk",7 канал Красноярск
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="kuban-24",Кубань 24
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_KUBAN24-T/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные",ТНТ Саратов
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_TNT/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="tnv-planeta",ТНВ Планета Урал
+https://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="svoyo-tv-stavropol" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1480323433988.png",Своё ТВ (Ставрополь)
+https://rt-sth-stavr-htlive-lb.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные",Россия 1 (-1)
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные",НТВ (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"  group-title="Региональные" tvg-id="mig-tv-noyabrsk" tvg-logo="https://i.imgur.com/L4Cy4jw.png",Миг ТВ
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Ветта-24
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Домашний
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_RTRS_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Звезда
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_ZVEZDA_RTRS_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Карусель
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_RTRS_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Мир
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_MIR_RTRS_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Муз ТВ
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R06_MUZTV_RTRS_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",НТВ
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",ОТР
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTR_RTRS_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Объектив 59
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Первый канал
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_URAL_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Пятница!
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_RTRS_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Пятый канал
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URAL_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",РЕН ТВ
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_RTRS_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Рифей
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Россия 1
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_URAL_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Россия 24
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Россия К
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_ROSSIAK_URAL_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",СТС
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STS_URAL_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Своё ТВ
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SVOETV/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",Спас
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R03_SPAS_RTRS_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",ТВ 3
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TV3_RTRS_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",ТВ Центр
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_RTRS_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Пермь",ТНТ
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_RTRS_PERM/variant.m3u8
+#EXTINF:0 group-title="Регион:Осетия",Осетия Иристон
+http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Регион:Осетия",Регион 15
+https://catchup.videoline.ru/media15/index.m3u8
+#EXTINF:0 group-title="Регион:Осетия",Алания 24
+http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
+#EXTINF:0 group-title="Регион:Осетия",Россия 24 (Алания)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia24-sd/index.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",Первый канал
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_1TV_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",Россия 1
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",НТВ
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",Рен ТВ
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",ТВ3
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",СТС
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_STS_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",ТНТ
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",Пятница!
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",Домашний
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",твц
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",Звезда
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",Пятый канал
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",8 Канал
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",ОТР
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_OTR_NSO/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",Мир
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R03_MIR/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",Россия К
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",Россия 24
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_NSK/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",Карусель
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_NSO/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",ОТС
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:0 group-title="Регион:Новосибирск",НСК 49
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Регион:Азербайджан"  tvg-logo="https://i.imgur.com/0MFkKAr.jpg",ARB
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Регион:Азербайджан"  tvg-logo="https://i.imgur.com/wiIJMek.jpg",ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Регион:Азербайджан"  tvg-logo="https://i.imgur.com/rDYSoRL.png",ATV 1
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Регион:Азербайджан"  tvg-logo="https://i.imgur.com/rDYSoRL.png",ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Регион:Азербайджан"  tvg-logo="https://i.imgur.com/rDYSoRL.png",ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Регион:Азербайджан" ,EL TV
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Регион:Азербайджан" ,ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Регион:Азербайджан"  tvg-logo="https://i.imgur.com/b6i8byT.png",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Регион:Азербайджан" ,STAR TV SD
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1  group-title="Молдавия",10 TV HD Moldova
+http://starnet-md.10TV_H264
+#EXTINF:-1  group-title="Молдавия",A7TV HD
+http://starnet-md.A7_HD_H264
+#EXTINF:-1  group-title="Молдавия",Accent TV
+http://starnet-md.ACCENT_TV_H264
+#EXTINF:-1  group-title="Молдавия",Agro TV
+http://starnet-md.AGROTV_H264
+#EXTINF:-1  group-title="Румыния",Alfa Omega TV
+http://starnet-md.ALFA_OMEGA_H264
+#EXTINF:-1  group-title="Познавательные",Animal Planet CEE HD
+http://starnet-md.ANIMAL_PLANETHD_H264
+#EXTINF:-1  group-title="Молдавия",ATV Gagauzia
+http://starnet-md.ATV_H264
+#EXTINF:-1  group-title="Молдавия",Axial TV HD
+http://starnet-md.AXIALTV_H264
+#EXTINF:-1  group-title="Италия",B1 TV
+http://starnet-md.B1_TV_H264
+#EXTINF:-1  group-title="Новости",BBC World News Europe
+http://starnet-md.BBCWORLDNEWSEUROPE_HD_H264
+#EXTINF:-1  group-title="Кино",Bolt HD (UA)
+http://starnet-md.BOLT_H264
+#EXTINF:-1  group-title="Детские",Boomerang
+http://starnet-md.BOOMERANGTV_H264
+#EXTINF:-1  group-title="Молдавия",BTV HD Moldova
+http://starnet-md.BTV_H264
+#EXTINF:-1  group-title="Молдавия",Bucuresti TV
+http://starnet-md.BUCURESTITV_HD_H264
+#EXTINF:-1  group-title="Молдавия",Busuioc TV
+http://starnet-md.BUSUIOCTV_H264
+#EXTINF:-1  group-title="Молдавия",Canal 2 HD Moldova
+http://starnet-md.CANAL2_H264
+#EXTINF:-1  group-title="Молдавия",Canal 3 HD Moldova
+http://starnet-md.CANAL3_H264
+#EXTINF:-1  group-title="Молдавия",Canal 5 Moldova
+http://starnet-md.CANAL_5_H264
+#EXTINF:-1  group-title="Молдавия",Canal Regional
+http://starnet-md.REGIONALTV_H264
+#EXTINF:-1  group-title="Детские",Cartoon Network RO
+http://starnet-md.CARTOON_NETWORKRO_H264
+#EXTINF:-1  group-title="Детские",Cartoon Network RU
+http://starnet-md.CARTOON_NETWORKRU_H264
+#EXTINF:-1  group-title="Познавательные",CBS Reality
+http://starnet-md.CBS_REALITY_H264
+#EXTINF:-1  group-title="Кино",Cinema
+http://starnet-md.CINEMA_H264
+#EXTINF:-1  group-title="Молдавия",Cinema 1 Moldova
+http://starnet-md.CINEMA1_H264
+#EXTINF:-1  group-title="Религия",CNL Европа
+http://starnet-md.CNL_H264
+#EXTINF:-1  group-title="Новости",CNN International
+http://starnet-md.CNN_H264
+#EXTINF:-1  group-title="Италия",Cotidianul TV
+http://starnet-md.COTIDIANUL_TV_H264
+#EXTINF:-1  group-title="Молдавия",СТС Mega
+http://starnet-md.CTCMEGA_H264
+#EXTINF:-1  group-title="Познавательные",Da Vinci
+http://starnet-md.DAVINCI_LEARNING_H264
+#EXTINF:-1  group-title="Германия",Deutsche Welle Deutsch
+http://starnet-md.DE_DW_H264
+#EXTINF:-1  group-title="Германия",Deutsche Welle
+http://starnet-md.DW_H264
+#EXTINF:-1  group-title="Румыния",DIGI24
+http://starnet-md.DIGI_24_H264
+#EXTINF:-1  group-title="Познавательные",Discovery EE
+http://starnet-md.DISCOVERY_CHANNEL_H264
+#EXTINF:-1  group-title="Познавательные",Discovery Science CEE HD
+http://starnet-md.DISCOVERY_SCIENCEHD_H264
+#EXTINF:-1  group-title="Румыния",Disney Channel RO
+http://starnet-md.DISNEY_CHANNELRO_H264
+#EXTINF:-1  group-title="Детские",Disney Junior
+http://starnet-md.DISNEY_JUNIOR_H264
+#EXTINF:-1  group-title="Детские",Disney Junior
+http://starnet-md.DISNEY_JUNIOR_H264
+#EXTINF:-1  group-title="Молдавия",Drochia TV
+http://starnet-md.DROCHIATV_H264
+#EXTINF:-1  group-title="Молдавия",DTV Moldova
+http://starnet-md.DTV_H264
+#EXTINF:-1  group-title="Познавательные",DTX HD
+http://starnet-md.DTX_H264
+#EXTINF:-1  group-title="Детские",DuckTV
+http://starnet-md.DUCKTVHD_H264
+#EXTINF:-1  group-title="Румыния",Elita TV
+http://starnet-md.ELITA_H264
+#EXTINF:-1  group-title="Музыка",Etno TV
+http://starnet-md.ETNOTV_H264
+#EXTINF:-1  group-title="Новости",Евроновости
+http://starnet-md.EURONEWS_H264
+#EXTINF:-1  group-title="Музыка",Europa Plus TV
+http://starnet-md.EUROPA_PLUS_H264
+#EXTINF:-1  group-title="Спорт",Eurosport 1 HD
+http://starnet-md.ESPHD_H264
+#EXTINF:-1  group-title="Спорт",Eurosport 2 HD
+http://starnet-md.EUROSPORT2HD_H264
+#EXTINF:-1  group-title="Молдавия",Familia Domashniy
+http://starnet-md.FAMILIA_DOMASHNII_H264
+#EXTINF:-1  group-title="Познавательные",Fashion TV HD
+http://starnet-md.FASHIONTV_HD_H264
+#EXTINF:-1  group-title="Румыния",Favorit TV
+http://starnet-md.FAVORITTV_H264
+#EXTINF:-1  group-title="Украина",FilmUADrama
+http://starnet-md.FILMUA_DRAMA_H264
+#EXTINF:-1  group-title="Кухня",Food Network HD
+http://starnet-md.FOODNETWORK_HD_H264
+#EXTINF:-1  group-title="Новости",France 24 English
+http://starnet-md.FRANCE_24ENG_H264
+#EXTINF:-1  group-title="Новости",France 24 FR
+http://starnet-md.FRANCE_24FR_H264
+#EXTINF:-1  group-title="Молдавия",GRT Moldova
+http://starnet-md.GRT_H264
+#EXTINF:-1  group-title="Молдавия",Gurinel TV HD
+http://starnet-md.GURINELTV_H264
+#EXTINF:-1  group-title="Познавательные",HDL
+http://starnet-md.HD_LIFE_H264
+#EXTINF:-1  group-title="Познавательные",ID Investigation Discovery HD
+http://starnet-md.IDXTRA_HD_H264
+#EXTINF:-1  group-title="Молдавия",ITV Moldova
+http://starnet-md.ITV_H264
+#EXTINF:-1  group-title="Украина",Интер+
+http://starnet-md.INTERPLUS_H264
+#EXTINF:-1  group-title="Молдавия",Jurnal TV HD
+http://starnet-md.JURNALTV_H264
+#EXTINF:-1  group-title="Италия",Kanal D
+http://starnet-md.KANALD_H264
+#EXTINF:-1  group-title="Спорт",MMA-TV
+http://starnet-md.M_1GLOBAL_H264
+#EXTINF:-1  group-title="Румыния",Media TV
+http://starnet-md.MEDIATV_H264
+#EXTINF:-1  group-title="Румыния",Minimax
+http://starnet-md.MINIMAX_H264
+#EXTINF:-1  group-title="Молдавия",Moldova 1 HD
+http://starnet-md.MOLDOVA1_H264
+#EXTINF:-1  group-title="Молдавия",Moldova 2
+http://starnet-md.MOLDOVA2_H264
+#EXTINF:-1  group-title="Музыка",MTV 80s
+http://starnet-md.MTV80_H264
+#EXTINF:-1  group-title="Музыка",MTV 90s
+http://starnet-md.MTV90_H264
+#EXTINF:-1  group-title="Музыка",MTV Russia
+http://starnet-md.MTV_RUSSIA_H264
+#EXTINF:-1  group-title="Молдавия",N4
+http://starnet-md.N4_H264
+#EXTINF:-1  group-title="Румыния",National 24 Plus
+http://starnet-md.NATIONAL24_PLUS_H264
+#EXTINF:-1  group-title="Румыния",National TV
+http://starnet-md.NATIONALTV_H264
+#EXTINF:-1  group-title="Детские",Nick Jr.
+http://starnet-md.NICK_JR_H264
+#EXTINF:-1  group-title="Детские",Nickelodeon HD
+http://starnet-md.NICKELODEON_HD_H264
+#EXTINF:-1  group-title="Детские",Nickelodeon RO
+http://starnet-md.NICKELODEON_H264
+#EXTINF:-1  group-title="Детские",NickToons
+http://starnet-md.NICKTOONS_H264
+#EXTINF:-1  group-title="Музыка",Noroc TV HD
+http://starnet-md.NOROCTV_H264
+#EXTINF:-1  group-title="Молдавия",NTS
+http://starnet-md.NTS_H264
+#EXTINF:-1  group-title="Молдавия",NTV Moldova
+http://starnet-md.NTV_MOLDOVA_H264
+#EXTINF:-1  group-title="Молдавия",Orhei TV HD
+http://starnet-md.ORHEITV_H264
+#EXTINF:-1  group-title="Молдавия",Orizont TV
+http://starnet-md.ORIZONT_TV_H264
+#EXTINF:-1  group-title="Кино",Paramount Comedy
+http://starnet-md.PARAMOUNT_COMEDY_H264
+#EXTINF:-1  group-title="Музыка",Party Mix HD
+http://starnet-md.PARTY_MIXHD_H264
+#EXTINF:-1  group-title="Молдавия",Popas TV
+http://starnet-md.POPASTV_H264
+#EXTINF:-1  group-title="Молдавия",Prime HD
+http://starnet-md.PRIMEHD_H264
+#EXTINF:-1  group-title="Молдавия",Primul in Moldova
+http://starnet-md.PRIMULIN_MOLDOVA_H264
+#EXTINF:-1  group-title="Молдавия",Primul în Moldova
+http://starnet-md.PRIMULIN_MOLDOVA_H264
+#EXTINF:-1  group-title="Румыния",Pro 2
+http://starnet-md.PRO2_H264
+#EXTINF:-1  group-title="Румыния",Pro Gold
+http://starnet-md.PRO_GOLD_H264
+#EXTINF:-1  group-title="Молдавия",Pro TV Chisinau HD
+http://starnet-md.PROTV_CHISINAU_H264
+#EXTINF:-1  group-title="Молдавия",Pro TV Moldova HD
+http://starnet-md.PROTV_CHISINAU_H264
+#EXTINF:-1  group-title="Молдавия",Publika TV HD
+http://starnet-md.PUBLIKATV_H264
+#EXTINF:-1  group-title="Спорт",Q Sport HD
+http://starnet-md.QSPORT_H264
+#EXTINF:-1  group-title="Молдавия",R Live TV
+http://starnet-md.REALITATEA_LIVE_H264
+#EXTINF:-1  group-title="Молдавия",REN Moldova
+http://starnet-md.RENTV_MOLDOVA_H264
+#EXTINF:-1  group-title="Румыния",Romania TV
+http://starnet-md.ROMANIA_TV_H264
+#EXTINF:-1  group-title="Молдавия",RTR Moldova HD
+http://starnet-md.RTR_MOLDOVA_H264
+#EXTINF:-1  group-title="Музыка",RU.TV Moldova
+http://starnet-md.RUTV_MOLDOVA_H264
+#EXTINF:-1  group-title="Спорт",Setanta Sports 1
+http://starnet-md.SETANTA_HD_H264
+#EXTINF:-1  group-title="Спорт",Setanta Sports 2
+http://starnet-md.SETANTAPLUS_HD_H264
+#EXTINF:-1  group-title="Спорт",Setanta Sports Ukraine
+http://starnet-md.SETANTASPORTS_HD_H264
+#EXTINF:-1  group-title="Молдавия",Sor TV
+http://starnet-md.SORTV_H264
+#EXTINF:-1  group-title="Религия",Speranta TV
+http://starnet-md.SPRETANTATV_H264
+#EXTINF:-1  group-title="Кино",Star Cinema Украина HD
+http://starnet-md.STARCINEMA_HD_H264
+#EXTINF:-1  group-title="Кино",Star Family HD (UA)
+http://starnet-md.STARFAMILY_HD_H264
+#EXTINF:-1  group-title="Молдавия",STV HD Комрат
+http://starnet-md.STV_HD_H264
+#EXTINF:-1  group-title="Румыния",Taraf TV
+http://starnet-md.TARAFTV_H264
+#EXTINF:-1  group-title="Музыка",Tezaur Folc TV
+http://starnet-md.TEZAUR_TV_H264
+#EXTINF:-1  group-title="Познавательные",TLC
+http://starnet-md.DISCOVERY_TLC_H264
+#EXTINF:-1  group-title="Познавательные",Travel Channel HD
+http://starnet-md.TRAVELCHANNEL_HD_H264
+#EXTINF:-1  group-title="Румыния",Travel Mix HD
+http://starnet-md.TRAVELMIX_HD_H264
+#EXTINF:-1  group-title="Религия",Trinitas TV
+http://starnet-md.TRINITASTV_H264
+#EXTINF:-1  group-title="Венгрия",TV Paprika
+http://starnet-md.PAPRIKATV_H264
+#EXTINF:-1  group-title="Молдавия",TV Prim (Glodeni)
+http://starnet-md.PRIMTV_H264
+#EXTINF:-1  group-title="Молдавия",TV Prim Glodeni
+http://starnet-md.PRIMTV_H264
+#EXTINF:-1  group-title="Кино",TV 1000 Action HD
+http://starnet-md.TV1000ACTION_HD_H264
+#EXTINF:-1  group-title="Кино",TV 1000 HD
+http://starnet-md.TV1000_HD_H264
+#EXTINF:-1  group-title="Кино",TV 1000 Русское кино HD
+http://starnet-md.TV1000RU_HD_H264
+#EXTINF:-1  group-title="Познавательные",TV5 Monde
+http://starnet-md.TV5_MONDEEUROPE_H264
+#EXTINF:-1  group-title="Молдавия",TV8 HD Moldova
+http://starnet-md.TV8_H264
+#EXTINF:-1  group-title="Молдавия",TVC 21
+http://starnet-md.TVC21_H264
+#EXTINF:-1  group-title="Молдавия",TVR Moldova
+http://starnet-md.TVR_H264
+#EXTINF:-1  group-title="Молдавия",TVR Moldova
+http://starnet-md.TVR_H264
+#EXTINF:-1  group-title="Молдавия",ТНТ Exclusiv TV
+http://starnet-md.TNT_EXCLUSIV_H264
+#EXTINF:-1  group-title="Румыния",U TV Romania
+http://starnet-md.UTV_H264
+#EXTINF:-1  group-title="Украина",UATV
+http://starnet-md.UATV_HD_H264
+#EXTINF:-1  group-title="Познавательные",Viasat Explore HD
+http://starnet-md.VIASATEXPLORE_HD_H264
+#EXTINF:-1  group-title="Познавательные",Viasat History HD
+http://starnet-md.VIASATHISTORY_HD_H264
+#EXTINF:-1  group-title="Познавательные",Viasat Nature HD
+http://starnet-md.VIASATNATURE_HD_H264
+#EXTINF:-1  group-title="Познавательные",Viasat Nature/History HD
+http://starnet-md.VIASAT_NATHISTORYHD_H264
+#EXTINF:-1  group-title="Спорт",Viasat Sport HD
+http://starnet-md.VIASAT_SPORTHD_H264
+#EXTINF:-1  group-title="Кино",ViP Comedy HD
+http://starnet-md.VIP_COMEDYHD_H264
+#EXTINF:-1  group-title="Кино",ViP Megahit HD
+http://starnet-md.VIP_MEGAHITHD_H264
+#EXTINF:-1  group-title="Кино",ViP Premiere HD
+http://starnet-md.VIP_PREMIERHD_H264
+#EXTINF:-1  group-title="Кино",ViP Serial HD
+http://starnet-md.VIP_SERIALHD_H264
+#EXTINF:-1  group-title="Молдавия",Vocea Basarabiei TV HD
+http://starnet-md.VOCEA_BASARABIEI_H264
+#EXTINF:-1  group-title="Кино",Zee TV
+http://starnet-md.ZEETV_H264
+#EXTINF:-1  group-title="Музыка",Zona M
+http://starnet-md.ZONAM_H264
+#EXTINF:-1  group-title="Познавательные",Авто плюс
+http://starnet-md.AVTO_PLUS_H264
+#EXTINF:-1  group-title="Познавательные",Бобёр
+http://starnet-md.BOBIOR_H264
+#EXTINF:-1  group-title="Познавательные",В мире животных HD
+http://starnet-md.VMIRE_JIVOTNIH_H264
+#EXTINF:-1  group-title="Познавательные",Дикая Охота HD
+http://starnet-md.DIKAYAOHOTA_H264
+#EXTINF:-1  group-title="Познавательные",Дикая Рыбалка HD
+http://starnet-md.DIKAYARIBALKA_H264
+#EXTINF:-1  group-title="Познавательные",Дикий
+http://starnet-md.DIKYI_H264
+#EXTINF:-1  group-title="Познавательные",Драйв
+http://starnet-md.DRAIV_H264
+#EXTINF:-1  group-title="Познавательные",Живи!
+http://starnet-md.JIVI_H264
+#EXTINF:-1  group-title="Познавательные",Здоровое ТВ
+http://starnet-md.ZDOROVOYE_TV_H264
+#EXTINF:-1  group-title="Детские",Капитан Фантастика HD
+http://starnet-md.KAPITAN_FANTASTIKA_HD_H264
+#EXTINF:-1  group-title="Детские",Карусель
+http://starnet-md.KARUSELI_H264
+#EXTINF:-1  group-title="Украина",Квартал ТВ
+http://starnet-md.KVARTALTV_H264
+#EXTINF:-1  group-title="Общероссийские",КВН ТВ
+http://starnet-md.KVN_TV_H264
+#EXTINF:-1  group-title="Кино",Кино ТВ HD
+http://starnet-md.KINOTV_HD_H264
+#EXTINF:-1  group-title="Кино",Кинокомедия
+http://starnet-md.KINO_KOMEDYA_H264
+#EXTINF:-1  group-title="Кино",Киномикс HD
+http://starnet-md.KINOMIX_H264
+#EXTINF:-1  group-title="Кино",Кинопремьера HD
+http://starnet-md.KINOPREMIERA_H264
+#EXTINF:-1  group-title="Кино",Киносвидание
+http://starnet-md.KINO_SVIDANIE_H264
+#EXTINF:-1  group-title="Кино",Киносемья
+http://starnet-md.KINOSEMYA_H264
+#EXTINF:-1  group-title="Кино",Киносерия
+http://starnet-md.KINOSERYA_H264
+#EXTINF:-1  group-title="Кино",Кинохит
+http://starnet-md.KINOHIT_H264
+#EXTINF:-1  group-title="Кухня",Кухня ТВ
+http://starnet-md.KUHNEATV_H264
+#EXTINF:-1  group-title="Музыка",Ля минор
+http://starnet-md.LEA_MINOR_H264
+#EXTINF:-1  group-title="Спорт",Матч! Планета
+http://starnet-md.MATCH_PLANETA_H264
+#EXTINF:-1  group-title="Кино",Мужское кино
+http://starnet-md.MUJSKOE_KINO_H264
+#EXTINF:-1  group-title="Детские",Мульт
+http://starnet-md.MULIT_H264
+#EXTINF:-1  group-title="Познавательные",Настоящее время
+http://starnet-md.NASTOIASHIE_VREMEA_H264
+#EXTINF:-1  group-title="Познавательные",Наша Сибирь HD
+http://starnet-md.NASHASYBYRI_H264
+#EXTINF:-1  group-title="Кино",Наше новое кино
+http://starnet-md.NASHENOVOIE_KINO_H264
+#EXTINF:-1  group-title="Кино",Ностальгия
+http://starnet-md.NOSTALIGYA_H264
+#EXTINF:-1  group-title="Молдавия",НТВ Молдова
+http://starnet-md.NTV_MOLDOVA_H264
+#EXTINF:-1  group-title="Познавательные",Охота и рыбалка
+http://starnet-md.OKHOTAIRYBALKA_H264
+#EXTINF:-1  group-title="Познавательные",Охотник и рыболов HD
+http://starnet-md.OHOTNIK_IRIBALOV_H264
+#EXTINF:-1  group-title="Познавательные",Первый Космический HD
+http://starnet-md.PERVYY_KOSMICHESKIYHD_H264
+#EXTINF:-1  group-title="Познавательные",Приключения HD
+http://starnet-md.PRIKLIUCENIAHD_H264
+#EXTINF:-1  group-title="Молдавия",РЕН ТВ Молдова HD
+http://starnet-md.RENTV_MOLDOVA_H264
+#EXTINF:-1  group-title="Кино",Родное кино
+http://starnet-md.RODNOIE_KINO_H264
+#EXTINF:-1  group-title="Молдавия",РТР Молдова HD
+http://starnet-md.RTR_MOLDOVA_H264
+#EXTINF:-1  group-title="Детские",Рыжий
+http://starnet-md.RIJII_H264
+#EXTINF:-1  group-title="Общероссийские",Сарафан
+http://starnet-md.SARAFAN_H264
+#EXTINF:-1  group-title="Религия",Союз
+http://starnet-md.SOIUZ_H264
+#EXTINF:-1  group-title="Детские",СТС Kids
+http://starnet-md.CTC_KIDS_H264
+#EXTINF:-1  group-title="Молдавия",СТС Mega
+http://starnet-md.CTCMEGA_H264
+#EXTINF:-1  group-title="Молдавия",ТНТ Exclusiv TV
+http://starnet-md.TNT_EXCLUSIV_H264
+#EXTINF:-1  group-title="Музыка",ТНТ MUSIC
+http://starnet-md.TNT_MUSIC_H264
+#EXTINF:-1  group-title="Познавательные",Усадьба
+http://starnet-md.USADBA_H264
+#EXTINF:-1  group-title="Музыка",Шансон ТВ
+http://starnet-md.SHANSON_H264
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",Беларусь 1 HD
+https://www.voka.tv/0d0546a2-b8da-4670-80d4-452e40c344be
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",ОНТ HD (Беларусь)
+https://www.voka.tv/7a975f3b-0423-46fc-bce4-0efa5366114e
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",СТВ HD
+https://www.voka.tv/f1fb9c94-a253-4e14-b319-9a20d1410871
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Общероссийские",Мир HD
+https://www.voka.tv/0997cfd9-782e-4ef0-842f-6c981c40a1aa
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",РТР HD (Беларусь)
+https://www.voka.tv/b00e68a0-0391-4756-a188-d716d48cdafa
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",НТВ HD (Беларусь)
+https://www.voka.tv/ebb04d5a-ed00-47d8-9da6-9a650a740f07
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",Беларусь 2 HD
+https://www.voka.tv/a2df4e4a-3dbd-4ad7-a30e-e696cffa1396
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",Беларусь 3 HD
+https://www.voka.tv/b94822e9-7e3d-41e5-988b-9395618a45ae
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",Беларусь 5 HD
+https://www.voka.tv/911463f3-2e74-49ab-b5e8-2550cb4c9753
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Прочие",Концерт «Песни Владимира Высоцкого»
+https://www.voka.tv/068b1018-020d-46d2-a9ff-d7d252f86006
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Прочие",Большие Белорусские Танки
+https://www.voka.tv/dce16ff3-ebcc-4876-9079-55b3e83aae7f
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",БУГ-ТВ
+https://www.voka.tv/37cc3288-9c78-4917-8f2b-b2d1e325bb6b
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",Лагуна ТВ
+https://www.voka.tv/95c2676e-9c35-491c-9b40-a35eb96f24de
+#EXTINF:-1  group-title="Беларусь",Витебск
+https://www.voka.tv/dc70de58-e6e6-4ead-9039-0cde25f19ac3
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",Беларусь 4
+https://www.voka.tv/da76f481-3f84-4e79-b9dc-c3dc12ecf0db
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",Варяг
+https://www.voka.tv/bd757410-df51-41e9-a4a4-501350fb9719
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",ТНТ International
+https://www.voka.tv/31ec7e4b-c7aa-48d4-978d-f482a6d4a850
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",2x2
+https://www.voka.tv/9e4d4fec-f41d-436e-9fc7-c43725496f0d
+#EXTINF:-1  group-title="Общероссийские",Перец International
+https://www.voka.tv/8b89617c-a496-4998-881a-203f994bbb7e
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",ТВ 3 (Беларусь)
+https://www.voka.tv/1253f9e5-8c00-45c3-827b-5578207f6e5d
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",БелМуз ТВ
+https://www.voka.tv/748f49b0-8441-4bd7-af69-69517eb2029a
+#EXTINF:-1  group-title="Беларусь",ВТВ HD
+https://www.voka.tv/e67f9f09-037a-4b8d-b65c-7d23d7d30416
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",TLC HD
+https://www.voka.tv/f683b75d-b52f-4d72-be66-57fc1f67f0ab
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",MTV Russia
+https://www.voka.tv/30effd63-a68a-40fb-91ac-ac653e44d050
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Общероссийские",КВН ТВ
+https://www.voka.tv/303de646-288f-4fda-9fd5-2c56a84e4504
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",+TV
+https://www.voka.tv/ec1c6a7e-89e0-458a-83b6-1da12c697c20
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",СТС Kids
+https://www.voka.tv/0566713b-29d5-46e6-b977-3f4dc92102f4
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Nickelodeon HD
+https://www.voka.tv/09307210-0e29-40a5-8211-25b436582ffc
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Nickelodeon
+https://www.voka.tv/007d977c-e5ea-4999-8c36-14dd416eb273
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Nick Jr.
+https://www.voka.tv/903ef861-e2d1-4964-8a6c-ce3324506bf5
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Карусель
+https://www.voka.tv/e3fdb455-69c9-4dee-99fc-9fd9aa9cd879
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Советские Мультфильмы
+https://www.voka.tv/6a167afc-40f3-4208-80bc-4dd0bda17dae
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Tiji
+https://www.voka.tv/2e56444b-f894-41d7-af89-166c7a006654
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Gulli Girl
+https://www.voka.tv/990a0ab2-ddd9-441c-b50c-633a7427fffa
+#EXTINF:-1 catchup="append" catchup-minutes="7200" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Смайлик HD
+https://www.voka.tv/6a6d19ac-f2f0-41d5-8656-5efa540e75ce
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",• black
+https://www.voka.tv/d111d4a9-ef3e-4c1a-b8b8-06cb6800a136
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",TV 1000
+https://www.voka.tv/e5ce6a24-e654-4d56-a0c5-292b79f9b7d9
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",TV 1000 Action
+https://www.voka.tv/99e7330b-a202-445b-824b-5fae3e80f5ed
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",TV 1000 Русское кино
+https://www.voka.tv/a63e8f04-7d64-48d5-9109-8131b66fac98
+#EXTINF:-1  group-title="Кино",Paramount Comedy
+https://www.voka.tv/a19f913b-956b-4056-a2de-543dd0176d9c
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Иллюзион+
+https://www.voka.tv/d704d92b-6f39-4917-a3a5-3c331b4f5240
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Еврокино
+https://www.voka.tv/459394b5-a36b-4f8b-a7a8-6bbbb08204fa
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",КиноСат
+https://www.voka.tv/363d1fe2-85d5-4280-a7ef-7631af8618f3
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Феникс+ кино
+https://www.voka.tv/ec4336ef-7749-4d44-a21a-163d68284926
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Paramount channel
+https://www.voka.tv/8e772d03-ad38-4e5c-b5dd-7c16f45e7813
+#EXTINF:-1 catchup="append" catchup-minutes="8640" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Timeless Dizi Channel HD
+https://www.voka.tv/10eca319-0706-437e-8009-8301812b933b
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Ретро ТВ
+https://www.voka.tv/79c5fe0c-8803-482d-a0fe-e686f252a143
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",• red
+https://www.voka.tv/8278c18e-d905-4fd2-b423-614cd89667ee
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",• sci-fi
+https://www.voka.tv/b38afaaf-5c84-4fa3-96cc-7db1565b9e0e
+#EXTINF:-1  group-title="Кино",A1
+https://www.voka.tv/c56397c8-0920-4c69-b44f-570710bf3f90
+#EXTINF:-1  group-title="Кино",A2
+https://www.voka.tv/553c1011-6f00-4c15-bd92-ab9358d2dadd
+#EXTINF:-1  group-title="Кино",Amedia Premium HD
+https://www.voka.tv/e4d321a5-3477-464b-834a-425f19b131ee
+#EXTINF:-1  group-title="Кино",Amedia Hit HD
+https://www.voka.tv/f1a7e832-ced0-406c-ac61-14e0f1ff9842
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Индийское кино
+https://www.voka.tv/dc408463-91b9-43ff-8aca-1a6d88054994
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Дом кино премиум HD
+https://www.voka.tv/84fa4f19-3b8f-4a94-9830-77c96765ca7b
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Дом кино
+https://www.voka.tv/e75486bc-4bf2-4d48-88f9-a097ed075805
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Русский иллюзион
+https://www.voka.tv/111e71dd-8081-41bc-a798-a78c0fc3b5ce
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Cinema HD (Космос ТВ)
+https://www.voka.tv/ca41163b-3857-4725-9780-076ec2c36f2e
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Кинопремьера HD
+https://www.voka.tv/d2dde3ae-b8e5-44bd-a032-3f0929788021
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Киномикс HD
+https://www.voka.tv/fe81e31b-a170-4f0e-9a4c-921c9a7ced25
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Киносемья HD
+https://www.voka.tv/f5d0e42c-e1c8-4bbc-a0a5-020adee5452c
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Регионы",ТВ-21 М
+https://www.voka.tv/d9180449-3833-426a-8884-10cef377095a
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Мужское кино
+https://www.voka.tv/cfb51d00-d16c-42d2-8f49-146d47b8c720
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Наше новое кино HD
+https://www.voka.tv/d08f72fc-dea4-4dee-af4c-c45f1db1451f
+#EXTINF:-1 catchup="append" catchup-minutes="8640" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Zee TV HD
+https://www.voka.tv/842a7c91-d631-45c9-a475-71bbd6c0a23c
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Киносвидание HD
+https://www.voka.tv/0a63234b-5b27-46b7-9f27-2932a533dc28
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Кинокомедия HD
+https://www.voka.tv/f540adb1-dc64-4be7-af9b-d8fec89e1dfc
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Киносерия HD
+https://www.voka.tv/306fe82c-244a-4908-9048-b7fb5cde21c0
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Родное кино
+https://www.voka.tv/c7bc6b6b-2677-483f-bf61-07cbd181634d
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",VIP Premiere HD
+https://www.voka.tv/e1e0a942-2d9f-44d2-88b7-a0e931866f9f
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",VIP Megahit HD
+https://www.voka.tv/cbb8108e-eefa-472e-bca5-1788c2fd8418
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",VIP Comedy HD
+https://www.voka.tv/fd0874e0-1844-4f02-be18-8f9865ccd4ad
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",VIP Serial HD
+https://www.voka.tv/5553c401-a790-425f-be5c-11ab3fd44589
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Hollywood
+https://www.voka.tv/05580313-0a4a-4cb9-ba27-64f824a51164
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Классика кино
+https://www.voka.tv/2d9c4669-26c7-402a-986b-7b68f8082d84
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Советское кино
+https://www.voka.tv/6e009b05-b51e-414f-9b5e-f87af3df3951
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",НТВ Сериал
+https://www.voka.tv/1851fc0b-e7c8-41de-adfc-682906f08a93
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино",Муви ТВ
+https://www.voka.tv/9966f25e-b53a-4450-9fd7-fb1725c64e5e
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорт",Eurosport 1 HD
+https://www.voka.tv/d7043c48-5fe9-426f-bf28-a7ed1f8d61d5
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорт",Extreme Sports
+https://www.voka.tv/d685d07a-262c-494e-9861-c3e0f5450c33
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорт",Setanta Sports 1 Belarus HD
+https://www.voka.tv/f9aa64b0-75bc-4ae6-a246-6dc859fc6f58
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорт",Setanta Sports 2 Belarus HD
+https://www.voka.tv/bad713b4-4d00-4b0d-867b-5ee002834561
+#EXTINF:-1 catchup="append" catchup-minutes="7200" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорт",Viasat Sport HD
+https://www.voka.tv/9dc8a53d-a4a2-4dc1-a218-33740ebb5e51
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорт",KHL
+https://www.voka.tv/bacba19c-86e8-45d3-bb66-8411440e0ec0
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорт",KHL Prime
+https://www.voka.tv/999edfe8-70d3-4510-b10c-b997def655ad
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорт",Бокс ТВ
+https://www.voka.tv/28dee948-4011-42a7-b2dd-43541d7172bd
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорт",Матч! Планета
+https://www.voka.tv/570743eb-2d7f-4aa9-b5f5-e6d7ba6a60ac
+#EXTINF:-1 catchup="append" catchup-minutes="8640" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорт",MMA-TV.COM HD
+https://www.voka.tv/6cb6a0ef-d4fb-4998-972c-33c53f2f62e5
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",History HD
+https://www.voka.tv/4d7c9986-0d74-439a-be28-fbb91f18195d
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Viasat Nature/History HD
+https://www.voka.tv/24e26a62-8116-435d-8521-c5c177111c18
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Discovery Channel
+https://www.voka.tv/faba0498-621a-4544-8cc6-805a6190d39d
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Animal Planet HD
+https://www.voka.tv/3dd9f3de-24c1-4fc7-97fa-b4cdd403076f
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Zooпарк
+https://www.voka.tv/4b2f9401-3deb-4950-9a1e-fc2c572fe3e1
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Психология 21
+https://www.voka.tv/763cb448-29f7-4816-aff2-f4c9287bc161
+#EXTINF:-1 catchup="append" catchup-minutes="7200" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",DocuBox HD
+https://www.voka.tv/e6356f4c-0334-4901-ba78-b74e2ebbf0da
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Терра Инкогнита HD
+https://www.voka.tv/37e76491-d114-41b8-8d26-206c4cf81e59
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",H2
+https://www.voka.tv/a1874956-8c8c-40f4-bbe4-427c6aafeb94
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Nano HD
+https://www.voka.tv/dd5eabd1-1406-4e85-ad2e-fe3e66b9adad
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",RTG
+https://www.voka.tv/34339228-3b15-4c98-b7d3-a5f65b2054a1
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Кто есть кто
+https://www.voka.tv/2e9781f4-61c1-4abc-bb90-5d69d2c2025b
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Viasat Explore
+https://www.voka.tv/d016ddb1-8311-4d2c-a1ae-2485a7f90fb4
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Viasat Nature
+https://www.voka.tv/409fe876-0bf4-4afa-9b6c-93572612fe00
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Viasat History
+https://www.voka.tv/9a167063-719b-4de2-96df-993dd8cc3b01
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Travel+ Adventure HD
+https://www.voka.tv/d6bc19fb-df84-4a70-820b-b6106a64db90
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",HDL
+https://www.voka.tv/478ad887-d178-45b4-b348-6a4b52ec4af9
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Неизвестная планета
+https://www.voka.tv/b295f5fd-bfee-49fc-ad70-76024819ed00
+#EXTINF:-1  group-title="Музыка",ТНТ MUSIC
+https://www.voka.tv/41389575-6fac-46e8-9a98-3742bddc6dc4
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",Жара
+https://www.voka.tv/5e6665b7-9097-4062-86cc-40d580f8e938
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",Europa Plus TV
+https://www.voka.tv/c42085e9-446b-49b5-aba7-09f1cf521159
+#EXTINF:-1  group-title="Музыка",RU TV (Беларусь)
+https://www.voka.tv/60b0bd7a-869d-47e0-b1cd-8417f1e2050e
+#EXTINF:-1  group-title="Музыка",Шансон ТВ
+https://www.voka.tv/edd22b7a-d7d6-40b8-84ab-45b71baa21a8
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",Ля минор
+https://www.voka.tv/72b764df-f5a8-43e2-8f07-68fde28ef550
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",MTV 00s
+https://www.voka.tv/c87e2737-5fe5-4f3d-b0c5-3292b2b1bc69
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",MTV 80s
+https://www.voka.tv/cc89b83c-5345-4235-990e-e7a49e07e294
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",Первый музыкальный HD
+https://www.voka.tv/e9a1d6c2-58eb-4c34-adfd-42256ea7cf42
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",Mezzo
+https://www.voka.tv/d71629ec-733f-45e6-a011-32fd794346c4
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",Mezzo Live HD
+https://www.voka.tv/feef9735-09b5-440e-84e8-99b1cda63bb5
+#EXTINF:-1  group-title="Музыка",MCM Top
+https://www.voka.tv/f9e697cc-ff6d-4fce-9e89-c3c90cd135df
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",MTV 90s
+https://www.voka.tv/a2867550-987e-4773-8edc-295bc5c30b4d
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",Live music channel HD
+https://www.voka.tv/7a65e6b3-7586-48a2-9f0e-02cdd76fff3c
+#EXTINF:-1 catchup="append" catchup-minutes="7200" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыка",Bridge TV Deluxe HD
+https://www.voka.tv/d461f7e4-dd8a-4a36-9a50-27244506303c
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="Прочие",Пятый канал International
+https://www.voka.tv/33e0433d-ea6c-4d26-b31e-d81f71c6def2
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",8 канал (Беларусь)
+https://www.voka.tv/1417fbe0-c1fc-444a-bf35-33233168e911
+#EXTINF:-1  group-title="Беларусь",ТВ2 Могилёв
+https://www.voka.tv/10fd4ed0-de06-4a77-9cba-dab3f9efdb67
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",Скиф HD (Беларусь)
+https://www.voka.tv/80870071-ae69-419e-b1e2-1b1b6173aef8
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",БелРос
+https://www.voka.tv/356fe750-602d-4475-8f89-0dfc9d39794f
+#EXTINF:-1  group-title="Прочие",Домашний Int
+https://www.voka.tv/2bc564d2-1a3c-46d8-8ff0-7c0004d8f378
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",Звязда HD
+https://www.voka.tv/d9479235-f858-45a2-9571-09e7889bb477
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Кухня",Кухня ТВ HD
+https://www.voka.tv/c8e7d8d4-3a62-4daa-a192-6c7ad09a20c1
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Усадьба
+https://www.voka.tv/bab490e2-4903-4cc0-92a0-a037c1eff133
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",НТВ Стиль
+https://www.voka.tv/24ff21df-f899-408d-9225-8b207ec9d995
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",НТВ Право
+https://www.voka.tv/1fa7770e-20c3-4293-980e-9cf485741b4e
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",АВТО24
+https://www.voka.tv/76d3ca2d-8051-4a4c-864a-2b9c3c7d0a57
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Авто плюс
+https://www.voka.tv/126edc97-bd89-4261-bdd5-54b1221c8075
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Оружие
+https://www.voka.tv/461ae2af-e99c-4dfb-9582-a7d5fc1fb80f
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Общероссийские",Россия К
+https://www.voka.tv/6faa3a0f-30dd-4f03-a363-fb3fc144725f
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Религия",Союз
+https://www.voka.tv/7e8cedbe-5f18-4649-8468-dd5af597a670
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Охота и рыбалка
+https://www.voka.tv/1bfaceae-90dc-4da5-8a0d-7bccefd53bfe
+#EXTINF:-1  group-title="Беларусь",Светлое ТВ HD
+https://www.voka.tv/12f4c4a5-d45f-4101-bd3a-519f2fd70461
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Живи!
+https://www.voka.tv/23ac5d08-b5bf-4d33-bc2d-5859b9a7e887
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",English Club TV HD
+https://www.voka.tv/a04dfdc1-59c0-4b81-9ffc-122a834da02a
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",365 дней
+https://www.voka.tv/0e9b1414-89a9-49f4-9fca-69b8fc9fcab7
+#EXTINF:-1 catchup="append" catchup-minutes="1440" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Fashion & LifeStyle
+https://www.voka.tv/88126f3c-5618-4100-bb95-7b8aedc6149c
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Luxury HD
+https://www.voka.tv/c4820fbc-7ffb-4f33-9f45-6f65ed98c449
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" group-title="Беларусь",Бобруйск 360
+https://www.voka.tv/b6e5c81e-9175-4357-86e4-fe76949a066c
+#EXTINF:-1  group-title="Беларусь",Ранак
+https://www.voka.tv/2a92988d-c457-449b-ba63-6ae1a4ec6172
+#EXTINF:-1  group-title="Беларусь",Первый городской телеканал
+https://www.voka.tv/8376244d-937f-45a7-9972-01950e7d2b00
+#EXTINF:-1 catchup="append" catchup-minutes="720" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Fashion & Style 4K
+https://www.voka.tv/1f10d7e2-86d4-43af-9925-9714084fee72
+﻿#EXTM3U
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Первый канал
+http://bluepoint/3212
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Первый канал HD
+http://bluepoint/3213
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Россия 1
+http://bluepoint/3214
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Россия 1 HD
+http://bluepoint/3215
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Прочие",Planeta RTR
+http://bluepoint/3216
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",НТВ
+http://bluepoint/3217
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",НТВ HD
+http://bluepoint/3277
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",СТС
+http://bluepoint/3218
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",СТС HD
+http://bluepoint/3278
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",ТНТ
+http://bluepoint/3219
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",ТНТ HD
+http://bluepoint/3279
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Новости",Россия 24
+http://bluepoint/3220
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",ТВ Центр
+http://bluepoint/3221
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Пятый канал
+http://bluepoint/3222
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Бобёр
+http://bluepoint/3223
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Новости",РБК
+http://bluepoint/3224
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Дождь
+http://bluepoint/3225
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",RTVi
+http://bluepoint/3226
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",ОТР
+http://bluepoint/3227
+#EXTINF:-1  group-title="Новости",Евроновости
+http://bluepoint/3228
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Россия К
+http://bluepoint/3229
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Театр
+http://bluepoint/3230
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Музыка",Mezzo
+http://bluepoint/3231
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Че
+http://bluepoint/3232
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",РЕН ТВ
+http://bluepoint/3233
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Домашний
+http://bluepoint/3234
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Время
+http://bluepoint/3235
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Ностальгия
+http://bluepoint/3236
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Мужское кино
+http://bluepoint/3237
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Моя планета
+http://bluepoint/3238
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Совершенно секретно
+http://bluepoint/3239
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Техно 24
+http://bluepoint/3240
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Наука 2.0
+http://bluepoint/3290
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Discovery Science
+http://bluepoint/3241
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Discovery Channel
+http://bluepoint/3242
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Animal Planet
+http://bluepoint/3243
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",National Geographic
+http://bluepoint/3244
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Nat Geo Wild
+http://bluepoint/3245
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",ID Investigation Discovery
+http://bluepoint/3246
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Мужской
+http://bluepoint/3247
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Оружие
+http://bluepoint/3248
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",HDL
+http://bluepoint/3249
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Первый космический
+http://bluepoint/3250
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Вопросы и ответы
+http://bluepoint/3251
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",История
+http://bluepoint/3252
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",365 дней
+http://bluepoint/3322
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Кто есть кто
+http://bluepoint/3253
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Охота и рыбалка
+http://bluepoint/3254
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Домашние животные
+http://bluepoint/3255
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Zooпарк
+http://bluepoint/3256
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",Авто плюс
+http://bluepoint/3257
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кухня",Телекафе
+http://bluepoint/3258
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кухня",Кухня ТВ
+http://bluepoint/3259
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кухня",Еда Премиум
+http://bluepoint/3260
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",ТВ 3
+http://bluepoint/3261
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Сарафан
+http://bluepoint/3262
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Детские",Карусель
+http://bluepoint/3263
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Детские",Уникум
+http://bluepoint/3264
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Детские",Мультиландия
+http://bluepoint/3265
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Детские",Мульт
+http://bluepoint/3266
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Детские",JimJam
+http://bluepoint/3267
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Детские",Tiji
+http://bluepoint/3268
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Детские",Gulli Girl
+http://bluepoint/3269
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Детские",Cartoon Network
+http://bluepoint/3270
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Детские",Nickelodeon
+http://bluepoint/3271
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Детские",Disney Channel
+http://bluepoint/3272
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Детские",Nick Jr.
+http://bluepoint/3273
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",2x2
+http://bluepoint/3274
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Дом кино
+http://bluepoint/3275
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Еврокино
+http://bluepoint/3276
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Киносемья
+http://bluepoint/3280
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Русский роман
+http://bluepoint/3281
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Русский бестселлер
+http://bluepoint/3282
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Русский детектив
+http://bluepoint/3283
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Настоящее Страшное ТВ
+http://bluepoint/3284
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Победа
+http://bluepoint/3370
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",TV 1000 Русское кино
+http://bluepoint/3286
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Русский иллюзион
+http://bluepoint/3287
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Премиальное HD
+http://bluepoint/3288
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Кинохит
+http://bluepoint/3289
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Киномикс
+http://bluepoint/3291
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Amedia Premium HD
+http://bluepoint/3292
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Кинопремьера HD
+http://bluepoint/3293
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Наше новое кино
+http://bluepoint/3294
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Звезда
+http://bluepoint/3295
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Индийское кино
+http://bluepoint/3296
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",TV XXI
+http://bluepoint/3297
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Кинокомедия
+http://bluepoint/3298
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",КВН ТВ
+http://bluepoint/3299
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Пятница!
+http://bluepoint/3300
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Paramount Comedy
+http://bluepoint/3301
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Киносерия
+http://bluepoint/3302
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",Fox Life
+http://bluepoint/3303
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Кино",TV 1000
+http://bluepoint/3304
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Познавательные",TLC
+http://bluepoint/3305
+#EXTINF:-1  group-title="Познавательные",World Fashion Channel
+http://bluepoint/3306
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",KHL
+http://bluepoint/3307
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Матч! ТВ
+http://bluepoint/3309
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Матч! Арена
+http://bluepoint/3308
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Матч! Футбол 1 HD
+http://bluepoint/3310
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Матч! Футбол 2 HD
+http://bluepoint/3311
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Матч! Футбол 3 HD
+http://bluepoint/3312
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Матч! Премьер
+http://bluepoint/3313
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Матч! Страна
+http://bluepoint/3314
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Матч! Игра
+http://bluepoint/3315
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Матч! Боец
+http://bluepoint/3316
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Футбол 1
+http://bluepoint/3317
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Футбол 2
+http://bluepoint/3318
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Eurosport 1
+http://bluepoint/3319
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Eurosport 2
+http://bluepoint/3320
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Спорт",Viasat Sport
+http://bluepoint/3321
+#EXTINF:-1  group-title="Музыка",Музыка первого
+http://bluepoint/3323
+#EXTINF:-1  group-title="Музыка",MTV Club
+http://bluepoint/3324
+#EXTINF:-1  group-title="Музыка",Жара
+http://bluepoint/3325
+#EXTINF:-1  group-title="Музыка",RU TV
+http://bluepoint/3326
+#EXTINF:-1  group-title="Музыка",Europa Plus TV
+http://bluepoint/3327
+#EXTINF:-1  group-title="Музыка",MTV 00s
+http://bluepoint/3328
+#EXTINF:-1  group-title="Музыка",Муз ТВ
+http://bluepoint/3329
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Музыка",Ля минор
+http://bluepoint/3330
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Музыка",Шансон ТВ
+http://bluepoint/3331
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",ТНТ4
+http://bluepoint/3332
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Общероссийские",Ю
+http://bluepoint/3333
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Армения",Arm H1
+http://bluepoint/3334
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Армения",Arm H2
+http://bluepoint/3335
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Армения",Shant News
+http://bluepoint/3336
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Армения",Ketntron TV
+http://bluepoint/3337
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Армения",Armenia TV
+http://bluepoint/3338
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Армения",Ararat
+http://bluepoint/3339
+#EXTINF:-1  group-title="Армения",AR
+http://bluepoint/3340
+#EXTINF:-1  group-title="Армения",Armnews
+http://bluepoint/3341
+#EXTINF:-1  group-title="Армения",ATV
+http://bluepoint/3342
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Армения",21TV [AM]
+http://bluepoint/3343
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Армения",Arm Yerkir
+http://bluepoint/3344
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Израиль",9 канал (Израиль)
+http://bluepoint/3345
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Украина",Мега
+http://bluepoint/3346
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Украина",ICTV
+http://bluepoint/3347
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Украина",Интер
+http://bluepoint/3348
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Украина",Интер+
+http://bluepoint/3349
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Украина",1+1
+http://bluepoint/3350
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Украина",2+2
+http://bluepoint/3351
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Украина",UA Перший
+http://bluepoint/3352
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Украина",СТБ
+http://bluepoint/3353
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Украина",Новый канал
+http://bluepoint/3354
+#EXTINF:-1 catchup="append" catchup-days="14" catchup-source="&timestamp=${start}" group-title="Беларусь",Беларусь 24
+http://bluepoint/3355
+#EXTINF:-1  group-title="Грузия",Ajara TV
+http://bluepoint/3356
+#EXTINF:-1  group-title="Армения",Rustavi 2
+http://bluepoint/3357
+#EXTINF:-1  group-title="Армения",Imedi TV
+http://bluepoint/3367
+#EXTINF:-1  group-title="Азербайджан",Az TV
+http://bluepoint/3358
+#EXTINF:-1  group-title="Азербайджан",Lider TV
+http://bluepoint/3368
+#EXTINF:-1  group-title="Украина",CNL Украина
+http://bluepoint/3359
+#EXTINF:-1  group-title="Религия",Спас
+http://bluepoint/3360
+#EXTINF:-1  group-title="Религия",ТБН
+http://bluepoint/3361
